@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WALL" size="1.000000 0.997831" />
+    <ImageTarget name="SIDEPANEL" size="1.000000 0.997831" />
+    <ImageTarget name="SHESTERNYA" size="1.000000 0.997831" />
+    <ImageTarget name="rotor" size="1.000000 0.997831" />
+    <ImageTarget name="panelsideback" size="1.000000 0.997831" />
+    <ImageTarget name="panel1" size="1.000000 0.997831" />
+    <ImageTarget name="middle" size="1.000000 0.997831" />
+  </Tracking>
+</QCARConfig>

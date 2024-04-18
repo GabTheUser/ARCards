@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="10b" size="1.000000 1.333333" />
+    <ImageTarget name="9b" size="1.000000 1.285714" />
+    <ImageTarget name="8b" size="1.000000 1.285714" />
+    <ImageTarget name="7b" size="1.000000 1.285714" />
+    <ImageTarget name="6b" size="1.000000 1.239437" />
+    <ImageTarget name="5b" size="1.000000 1.319444" />
+    <ImageTarget name="4b" size="1.000000 1.352113" />
+    <ImageTarget name="3b" size="1.000000 1.352113" />
+    <ImageTarget name="2b" size="1.000000 1.366197" />
+    <ImageTarget name="1b" size="1.000000 1.385714" />
+    <ImageTarget name="mat" size="1.000000 0.666902" />
+    <ImageTarget name="last" size="1.000000 1.499471" />
+    <ImageTarget name="vpusklollectengine" size="1.000000 1.499471" />
+    <ImageTarget name="perhodnik" size="1.000000 1.499471" />
+    <ImageTarget name="droselzaslonka" size="1.000000 1.499471" />
+    <ImageTarget name="krishkatambler" size="1.000000 1.499471" />
+    <ImageTarget name="blender" size="1.000000 1.499471" />
+    <ImageTarget name="remenprivoda" size="1.000000 1.499471" />
+    <ImageTarget name="enginegenerator" size="1.000000 1.499471" />
+    <ImageTarget name="nasos" size="1.000000 1.499471" />
+    <ImageTarget name="poddon" size="1.000000 1.499471" />
+    <ImageTarget name="maslovzabornik" size="1.000000 1.499471" />
+    <ImageTarget name="vipuskcollector" size="1.000000 1.499471" />
+    <ImageTarget name="krishkaraspredshestern" size="1.000000 1.499471" />
+    <ImageTarget name="belt" size="1.000000 1.499471" />
+    <ImageTarget name="shesternyaprivoda" size="1.000000 1.499471" />
+    <ImageTarget name="oilpump" size="1.000000 1.499471" />
+    <ImageTarget name="balansirotora" size="1.000000 1.499471" />
+    <ImageTarget name="mahovik" size="1.000000 1.499471" />
+    <ImageTarget name="krishkabacksidepanel" size="1.000000 1.499471" />
+    <ImageTarget name="kameramiddle" size="1.000000 1.499471" />
+    <ImageTarget name="stator" size="1.000000 1.499471" />
+    <ImageTarget name="vall" size="1.000000 1.499471" />
+    <ImageTarget name="rotor" size="1.000000 1.499471" />
+    <ImageTarget name="shesternya2" size="1.000000 1.499471" />
+    <ImageTarget name="krishka" size="1.000000 1.499471" />
+  </Tracking>
+</QCARConfig>
